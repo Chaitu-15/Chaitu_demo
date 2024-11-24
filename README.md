@@ -1,2 +1,2 @@
 # Chaitu_demo
-This is my firstgit repository
+This is my first git repository
